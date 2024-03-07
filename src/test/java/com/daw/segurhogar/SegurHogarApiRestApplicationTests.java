@@ -1,0 +1,13 @@
+package com.daw.segurhogar;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SegurHogarApiRestApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
